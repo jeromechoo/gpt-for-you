@@ -2,6 +2,25 @@
 
 A python script that queries the [Diffbot Knowledge Graph](https://www.diffbot.com/products/knowledge-graph/) for news and summarizes the top line takeaways with citations. 
 
+```
+[
+  {
+    "name": "Twitter's Disagreement with EU on Disinformation Code",
+    "date": 1686061842000,
+    "citationIds": [
+      "ART51264025820" # https://nationalpost.com/news/twitter-has-chosen-confrontation-by-pulling-out-of-disinformation-code-eu
+    ]
+  },
+  {
+    "name": "Senators Warning Twitter and Elon Musk over Data Privacy",
+    "date": 1685951340000,
+    "citationIds": [
+      "ART144302563391" #https://abcnews.go.com/Business/senators-warn-twitter-elon-musk-alleged-disregard-data/story?id=99838319
+    ]
+  }
+]
+```
+
 Read more at ___
 
 ## Table of Contents
